@@ -1,6 +1,8 @@
 using System.Text.Json.Serialization;
 using managementcv.Infraestructures.Context;
 using Microsoft.EntityFrameworkCore;
+using managementcv.App.Implements;
+using managementcv.App.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,6 +31,7 @@ builder.Services.AddDbContext<ManagementContext>(options =>
     )
 );
 
+builder.Services.AddScoped<IUser, UserRepository>();
 
 
 var app = builder.Build();

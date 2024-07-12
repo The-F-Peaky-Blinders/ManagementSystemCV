@@ -10,13 +10,13 @@ namespace managementcv.Infraestructures.Context
 
         }
 
-        public DbSet<User> users {get; set;} 
-        public DbSet<Curriculum> curriculums {get; set;}
-        public DbSet<Aptitude> aptitudes {get; set;}
-        public DbSet<Education> educations {get; set;}
-        public DbSet<Language> languages {get; set;}
-        public DbSet<Skill> skills {get; set;}
-        public DbSet<WorkExperience> WorkExperiences {get; set;}
+        public DbSet<User> Users { get; set; }
+        public DbSet<Curriculum> Curriculums { get; set; }
+        public DbSet<Aptitude> Aptitudes { get; set; }
+        public DbSet<Education> Educations { get; set; }
+        public DbSet<Language> Languages { get; set; }
+        public DbSet<Skill> Skills { get; set; }
+        public DbSet<WorkExperience> WorkExperiences { get; set; }
 
     }
 }

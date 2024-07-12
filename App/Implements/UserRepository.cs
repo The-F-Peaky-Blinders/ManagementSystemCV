@@ -21,8 +21,15 @@ namespace managementcv.App.Implements
 
         public async Task<IEnumerable<User>> GetAllUsersAsync()
         {
-            return await _context.users.ToListAsync();
+            return await _context.Users.ToListAsync();
         }
+
+        public async Task RegisterUserAsync(User user)
+        {
+            _context.Users.Add(user);
+            await _context.SaveChangesAsync();
+        }
+
         
     }
 }

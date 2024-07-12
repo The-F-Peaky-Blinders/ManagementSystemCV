@@ -1,0 +1,67 @@
+@model managementcv.Models.User
+
+<h1>Registrarse</h1>
+
+<form asp-action="Register" asp-controller="PostUser" method="post">
+    <div class="contenedor-input">
+        <label asp-for="FirstName">
+            Nombre <span class="req">*</span>
+        </label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+
+        <label asp-for="LastName">
+            Apellido <span class="req">*</span>
+        </label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+
+        <label asp-for="Email">
+            Correo Electronico <span class="req">*</span>
+        </label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+
+        <label asp-for="Password">
+            Contraseña <span class="req">*</span>
+        </label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+
+        <label asp-for="Birthdate">
+            Fecha Cumpleaños <span class="req">*</span>
+        </label>
+        <input type="date" asp-for="Birthdate" class="form-control" />
+        <span asp-validation-for="Birthdate" class="text-danger"></span>
+
+        <label asp-for="TelephonePrefixes">
+            Telefono <span class="req">*</span>
+        </label>
+        <input asp-for="TelephonePrefixes" class="form-control" />
+        <span asp-validation-for="TelephonePrefixes" class="text-danger"></span>
+
+        <label asp-for="PhoneNumber">
+            Celular<span class="req">*</span>
+        </label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+        <label asp-for="PictureUrl">
+            Url Fotografia<span class="req">*</span>
+        </label>
+        <input asp-for="PictureUrl" class="form-control" />
+        <span asp-validation-for="PictureUrl" class="text-danger"></span>
+
+         <label asp-for="City">
+            Ciudad Residencia<span class="req">*</span>
+        </label>
+        <input asp-for="City" class="form-control" />
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+
+   
+
+    <div class="form-group">
+        <input type="submit" value="Registrarse" class="btn btn-primary" />
+    </div>
+</form>
