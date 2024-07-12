@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnlkP7rnH5RptimWkiY5TXwAq5id63JV608AWejWxV45ispRPMyE65m3ob0jVfMP3pXHS8YhM67uUenT+/rEHQ==",
+  "dgSpecHash": "rDLfKpo6uqa7LwSOAVT4i5Nbjx2h2hco9YJIhgMtP/tqCWIvKr63pPZ3aJqrYqRoNVUkykfBI54GhrFlXg5eDw==",
   "success": true,
-  "projectFilePath": "/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/managementcv/managementcv.csproj",
+  "projectFilePath": "/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/managementcv.csproj",
   "expectedPackageFiles": [
     "/home/riwip4-043/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/riwip4-043/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
