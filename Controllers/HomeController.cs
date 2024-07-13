@@ -59,7 +59,7 @@ namespace prueba.Controllers
             var token = _jwtAuthenticationService.GenerateJwtToken(user.Email);
             // Aquí puedes manejar el token JWT generado según tus necesidades
 
-            return RedirectToAction("Home", "Dashboard");
+            return RedirectToAction("Dashboard", "Home");
         }
 
         private bool VerifyPassword(string password, string storedPassword)
