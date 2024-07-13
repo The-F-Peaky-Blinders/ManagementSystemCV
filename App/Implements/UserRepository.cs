@@ -3,21 +3,20 @@ using managementcv.App.Interfaces;
 using managementcv.Infraestructures.Context;
 using managementcv.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace managementcv.App.Implements
 {
     public class UserRepository : IUser
     {
-        public readonly ManagementContext _context;
-        public readonly IMapper _mapper;
+        private readonly ManagementContext _context;
+        private readonly IMapper _mapper;
+
         public UserRepository(ManagementContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
         }
-
-        //Sobrecarga de metodos
-        public UserRepository(){}
 
         public async Task<IEnumerable<User>> GetAllUsersAsync()
         {
@@ -30,6 +29,9 @@ namespace managementcv.App.Implements
             await _context.SaveChangesAsync();
         }
 
-        
+        public async Task<User> GetUserByEmailAsync(string email)
+        {
+            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+        }
     }
 }

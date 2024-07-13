@@ -118,3 +118,243 @@
 /home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/managementcv/obj/Debug/net8.0/managementcv.pdb
 /home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/managementcv/obj/Debug/net8.0/managementcv.genruntimeconfig.cache
 /home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/managementcv/obj/Debug/net8.0/ref/managementcv.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/appsettings.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv.staticwebassets.runtime.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv.deps.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv.runtimeconfig.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/managementcv.pdb
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/AutoMapper.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/FluentValidation.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Humanizer.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/MySqlConnector.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.CodeDom.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/System.Text.Json.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.csproj.AssemblyReference.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.AssemblyInfoInputs.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.AssemblyInfo.cs
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.csproj.CoreCompileInputs.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.MvcApplicationPartsAssemblyInfo.cs
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.RazorAssemblyInfo.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.RazorAssemblyInfo.cs
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.sourcelink.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets/msbuild.managementcv.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets/msbuild.build.managementcv.props
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.managementcv.props
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.managementcv.props
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/scopedcss/bundle/managementcv.styles.css
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/scopedcss/projectbundle/managementcv.bundle.scp.css
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/manageme.2B048681.Up2Date
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/refint/managementcv.dll
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.pdb
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/managementcv.genruntimeconfig.cache
+/home/riwip4-043/Documents/Juan Pablo 4A/ManagementSystemCV/obj/Debug/net8.0/ref/managementcv.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\appsettings.Development.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\appsettings.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.staticwebassets.runtime.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.exe
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.deps.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.runtimeconfig.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\managementcv.pdb
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\AutoMapper.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\FluentValidation.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Humanizer.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\MySqlConnector.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.CodeDom.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Text.Json.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.csproj.AssemblyReference.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.GeneratedMSBuildEditorConfig.editorconfig
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.AssemblyInfoInputs.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.AssemblyInfo.cs
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.csproj.CoreCompileInputs.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.MvcApplicationPartsAssemblyInfo.cs
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.MvcApplicationPartsAssemblyInfo.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.RazorAssemblyInfo.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.RazorAssemblyInfo.cs
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.sourcelink.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets.build.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets.development.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets\msbuild.managementcv.Microsoft.AspNetCore.StaticWebAssets.props
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets\msbuild.build.managementcv.props
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.managementcv.props
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.managementcv.props
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\staticwebassets.pack.json
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\scopedcss\bundle\managementcv.styles.css
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\scopedcss\projectbundle\managementcv.bundle.scp.css
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\manageme.2B048681.Up2Date
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\refint\managementcv.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.pdb
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.genruntimeconfig.cache
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\ref\managementcv.dll
