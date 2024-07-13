@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("managementcv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8259d2af70e1eb96c4b05b1f4ba4149d687ce061")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dacdab55821aa2b4e76f1d4e7330361c8e5267a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("managementcv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("managementcv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
