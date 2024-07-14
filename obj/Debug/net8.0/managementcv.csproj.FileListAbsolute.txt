@@ -358,3 +358,7 @@ D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\o
 D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.pdb
 D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\managementcv.genruntimeconfig.cache
 D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\obj\Debug\net8.0\ref\managementcv.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\MailKit.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\MimeKit.dll
+D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\bin\Debug\net8.0\System.Formats.Asn1.dll

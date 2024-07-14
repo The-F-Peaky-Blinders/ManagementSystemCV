@@ -1,6 +1,7 @@
 using managementcv.App.Interfaces;
 using managementcv.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace managementcv.Controllers.Users
 {
@@ -26,9 +27,9 @@ namespace managementcv.Controllers.Users
             if (ModelState.IsValid)
             {
                 await _service.RegisterUserAsync(user);
-                return RedirectToAction("Index", "Home"); // Redirige a la página de inicio u otra página relevante
+                return RedirectToAction("Index", "Home");
             }
-            return View(user); // Si hay errores de validación, vuelve a mostrar el formulario con los errores
+            return View(user);
         }
     }
 }
