@@ -1,37 +1,72 @@
+using System.Threading.Tasks;
+using System.Collections.Generic;
 using AutoMapper;
 using managementcv.App.Interfaces;
 using managementcv.Infraestructures.Context;
 using managementcv.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
+using System;
 
-namespace managementcv.App.Implements
+public class UserRepository : IUser
 {
-    public class UserRepository : IUser
+    private readonly ManagementContext _context;
+    private readonly IMapper _mapper;
+    private readonly EmailService _emailService;
+
+    public UserRepository(ManagementContext context, IMapper mapper, EmailService emailService)
     {
-        private readonly ManagementContext _context;
-        private readonly IMapper _mapper;
+        _context = context;
+        _mapper = mapper;
+        _emailService = emailService;
+    }
 
-        public UserRepository(ManagementContext context, IMapper mapper)
+    public async Task<IEnumerable<User>> GetAllUsersAsync()
+    {
+        return await _context.Users.ToListAsync();
+    }
+
+    public async Task<User> GetUserByEmailAsync(string email)
+    {
+        return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+    }
+
+    public async Task RegisterUserAsync(User userModel)
+    {
+        var existingUser = await GetUserByEmailAsync(userModel.Email);
+        if (existingUser != null)
         {
-            _context = context;
-            _mapper = mapper;
+            throw new Exception("User already exists");
         }
 
-        public async Task<IEnumerable<User>> GetAllUsersAsync()
-        {
-            return await _context.Users.ToListAsync();
-        }
+        var user = _mapper.Map<User>(userModel);
+        await AddUserAsync(user);
+        await SendWelcomeEmail(user);
+    }
 
-        public async Task RegisterUserAsync(User user)
-        {
-            _context.Users.Add(user);
-            await _context.SaveChangesAsync();
-        }
+    private async Task<User> AddUserAsync(User user)
+    {
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+        return user;
+    }
 
-        public async Task<User> GetUserByEmailAsync(string email)
-        {
-            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
-        }
+    private async Task SendWelcomeEmail(User user)
+    {
+        var subject = "Registro con éxito - Detalles del Registro";
+        var htmlContent = $"<p>Hola <strong>{user.FirstName}</strong>,</p>" +
+            $"<p>Nos complace informarte que te has registrado exitosamente en nuestro servicio.</p>" +
+            $"<p><strong>Detalles del registro:</strong></p>" +
+            $"<ul>" +
+            $"<li><strong>Nombre:</strong> {user.FirstName}</li>" +
+            $"<li><strong>Correo Electrónico:</strong> {user.Email}</li>" +
+            $"<li><strong>Fecha:</strong> {DateTime.UtcNow}</li>" +
+            $"</ul>" +
+            $"<p>Gracias por utilizar nuestro servicio.</p>" +
+            $"<p>Saludos cordiales,</p>" +
+            $"<p>The-F-Peaky-Blinders<br>" +
+            $"<a href='mailto:The-F-Peaky-Blinders.soporte@riwicould.com'>The-F-Peaky-Blinders.soporte@peaky.com</a><br>" +
+            $"Teléfono de Soporte: 8654324</p>";
+
+        await _emailService.SendEmailAsync(user.Email, subject, htmlContent);
     }
 }
