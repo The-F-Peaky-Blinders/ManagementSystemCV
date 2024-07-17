@@ -40,7 +40,7 @@ namespace prueba.Controllers
             return View();
         }
 
-         public IActionResult Dashboard()
+        public IActionResult Dashboard()
         {
             return View();
         }
@@ -52,15 +52,13 @@ namespace prueba.Controllers
 
             if (user == null || !VerifyPassword(password, user.Password))
             {
-                ModelState.AddModelError(string.Empty, "El correo electrónico o la contraseña son incorrectos.");
-                return View();
+                return Unauthorized(new { message = "El correo electrónico o la contraseña son incorrectos." });
             }
 
             var token = _jwtAuthenticationService.GenerateJwtToken(user.Email);
-            // Aquí puedes manejar el token JWT generado según tus necesidades
-
-            return RedirectToAction("Dashboard", "Home");
+            return Ok(new { token });
         }
+
 
         private bool VerifyPassword(string password, string storedPassword)
         {
