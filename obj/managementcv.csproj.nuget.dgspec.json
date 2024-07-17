@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\managementcv.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj": {}
+  },
+  "projects": {
+    "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
+        "projectName": "managementcv",
+        "projectPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
+        "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
+        "outputPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +39,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
           "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +74,10 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -71,6 +95,10 @@
             "Pomelo.EntityFrameWorkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.6.3, )"
             },
             "System.Net.Http": {
               "target": "Package",
@@ -100,7 +128,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
         }
       }
     }
