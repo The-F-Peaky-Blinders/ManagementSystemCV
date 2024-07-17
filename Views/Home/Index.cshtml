@@ -22,32 +22,4 @@
     </div>
     <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
 </form>
-  <script>
-        document.getElementById("loginForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            var formData = new FormData(event.target);
 
-            fetch("/login", {
-                method: "POST",
-                body: formData
-            })
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('El correo electrónico o la contraseña son incorrectos.');
-                }
-                return response.json();
-            })
-            .then(data => {
-                if (data.token) {
-                    sessionStorage.setItem("jwtToken", data.token);
-                    window.location.href = "/Home/Dashboard"; // Redirige al dashboard después de iniciar sesión
-                } else {
-                    throw new Error('El correo electrónico o la contraseña son incorrectos.');
-                }
-            })
-            .catch(error => {
-                document.getElementById("errorMessage").innerText = error.message;
-                document.getElementById("errorMessage").style.display = "block";
-            });
-        });
-    </script>
