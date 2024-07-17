@@ -1,4 +1,4 @@
-namespace prueba.Models;
+namespace ManagementSystemCv.Models;
 
 public class ErrorViewModel
 {
