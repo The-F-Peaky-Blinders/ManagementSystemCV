@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 
     checkJwtToken();
-    disableBackButton();
+    //disableBackButton(); // Comentar esta línea temporalmente para ver si afecta la navegación
 });
 
 function handleLogin(event) {
@@ -61,8 +61,13 @@ function handleLogout(event) {
 
 function checkJwtToken() {
     var jwtToken = sessionStorage.getItem("jwtToken");
-    if (!jwtToken && window.location.pathname !== "/Home/Index") {
-        window.location.href = "/Home/Index";
+    console.log("checkJwtToken called. JWT Token:", jwtToken);
+    console.log("Current Pathname:", window.location.pathname);
+
+    // Ajustar la lógica de redirección según tus rutas
+    if (!jwtToken && window.location.pathname !== "/Auth/Login" && window.location.pathname !== "/Auth/Register") {
+        console.log("No JWT Token found, redirecting to /Auth/Login");
+        window.location.href = "/Auth/Login";
     }
 }
 

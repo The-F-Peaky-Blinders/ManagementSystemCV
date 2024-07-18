@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ManagementSystemCV.Controllers.Users
 {
-    public class PostUserController : Controller
+    public class RegisterController : Controller
     {
         private readonly IUser _service;
 
-        public PostUserController(IUser service)
+        public RegisterController(IUser service)
         {
             _service = service;
         }
@@ -20,13 +20,13 @@ namespace ManagementSystemCV.Controllers.Users
         }
 
         // POST: /Users/Register (procesar formulario)
-        [HttpPost]
+        [HttpPost("Register")]
         public async Task<IActionResult> Register(User user)
         {
             if (ModelState.IsValid)
             {
                 await _service.RegisterUserAsync(user);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Login", "Auth");
             }
             return View(user);
         }

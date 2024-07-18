@@ -30,18 +30,28 @@ public class UserRepository : IUser
         return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
     }
 
-    public async Task RegisterUserAsync(User userModel)
-    {
-        var existingUser = await GetUserByEmailAsync(userModel.Email);
-        if (existingUser != null)
+   public async Task RegisterUserAsync(User userModel)
         {
-            throw new Exception("User already exists");
+            try
+            {
+                var existingUser = await GetUserByEmailAsync(userModel.Email);
+                if (existingUser != null)
+                {
+                    throw new Exception("User already exists");
+                }
+
+                var user = _mapper.Map<User>(userModel);
+                await AddUserAsync(user);
+                await SendWelcomeEmail(user);
+            }
+            catch (Exception ex)
+            {
+                // Puedes manejar la excepción de alguna manera, por ejemplo, registrándola o lanzándola nuevamente
+                // También podrías querer lograr el error para un seguimiento detallado
+                throw new Exception("Error al registrar usuario", ex);
+            }
         }
 
-        var user = _mapper.Map<User>(userModel);
-        await AddUserAsync(user);
-        await SendWelcomeEmail(user);
-    }
 
     private async Task<User> AddUserAsync(User user)
     {
