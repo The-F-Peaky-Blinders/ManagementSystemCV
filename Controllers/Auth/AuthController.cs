@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System.Threading.Tasks;
-using managementcv.App.Interfaces;
 using ManagementSystemCV.App.Interfaces;
 
 public class AuthController : Controller

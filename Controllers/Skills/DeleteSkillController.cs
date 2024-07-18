@@ -1,7 +1,7 @@
-using managementcv.App.Interfaces;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace managementcv.Controllers.Skills
+namespace ManagementSystemCV.Controllers.Skills
 {
     public class DeleteSkillController : Controller
     {

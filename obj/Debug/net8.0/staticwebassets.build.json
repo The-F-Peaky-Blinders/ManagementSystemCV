@@ -1,80 +1,27 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "mFjCZG9p2LOMS0JE+T7ryA0rsdtnR6wvAEQZOn2i03c=",
-=======
-  "Hash": "hpcbB7hePRnUIThcg5IFTpeQaPxHgazojPj/XFcAD74=",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-  "Source": "managementcv",
-  "BasePath": "_content/managementcv",
+  "Hash": "dT7VglWYwc00eLFkXa5/BSq8aC7OmaRrg8kMVZt6log=",
+  "Source": "ManagementSystemCV",
+  "BasePath": "_content/ManagementSystemCV",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "managementcv\\wwwroot",
-      "Source": "managementcv",
-<<<<<<< HEAD
+      "Name": "ManagementSystemCV\\wwwroot",
+      "Source": "ManagementSystemCV",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\css\\site.css",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\managementcv.styles.css",
-      "SourceId": "managementcv",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/managementcv",
-      "RelativePath": "managementcv.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\bundle\\managementcv.styles.css"
-    },
-    {
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\managementcv.bundle.scp.css",
-      "SourceId": "managementcv",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/managementcv",
-      "RelativePath": "managementcv.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\managementcv.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\css\\site.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -89,12 +36,11 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\css\\styles.css",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -110,16 +56,10 @@
     },
     {
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\favicon.ico",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\favicon.ico",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -134,18 +74,68 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\js\\site.js",
-      "SourceId": "managementcv",
+      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-1.png",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\js\\site.js",
-      "SourceId": "managementcv",
+      "BasePath": "_content/ManagementSystemCV",
+      "RelativePath": "Ilustración-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ilustración-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-2.png",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
+      "BasePath": "_content/ManagementSystemCV",
+      "RelativePath": "Ilustración-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ilustración-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-3.png",
+      "SourceId": "ManagementSystemCV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
+      "BasePath": "_content/ManagementSystemCV",
+      "RelativePath": "Ilustración-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Ilustración-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\js\\site.js",
+      "SourceId": "ManagementSystemCV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -160,1188 +150,11 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
-      "RelativePath": "lib/bootstrap/LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
-    },
-    {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1356,18 +169,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1382,18 +188,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1408,18 +207,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1434,18 +226,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1460,18 +245,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1486,18 +264,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1512,18 +283,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1538,18 +302,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1564,18 +321,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1590,18 +340,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1616,18 +359,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-=======
-      "Identity": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "managementcv",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\wwwroot\\",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1640,14 +376,13 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-<<<<<<< HEAD
     },
     {
       "Identity": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\logo.png",
-      "SourceId": "managementcv",
+      "SourceId": "ManagementSystemCV",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\",
-      "BasePath": "_content/managementcv",
+      "BasePath": "_content/ManagementSystemCV",
       "RelativePath": "logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1660,8 +395,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
-=======
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
     }
   ]
 }

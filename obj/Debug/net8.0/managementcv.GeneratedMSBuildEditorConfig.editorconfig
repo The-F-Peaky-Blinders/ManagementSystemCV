@@ -9,17 +9,12 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = managementcv
 build_property.RootNamespace = managementcv
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\WINDOWS 11\Desktop\Riwi\ManagementSystemCV\
-=======
-build_property.ProjectDir = D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV\
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\WINDOWS 11\Desktop\Riwi\ManagementSystemCV
 build_property._RazorSourceGeneratorDebug = 
 
@@ -27,16 +22,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/Auth/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/PostUser/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFVzZXJcUmVnaXN0ZXIuY3NodG1s
+[C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/Shared/_Layout.cshtml]
@@ -54,39 +45,3 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/WINDOWS 11/Desktop/Riwi/ManagementSystemCV/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
-=======
-build_property.MSBuildProjectDirectory = D:\juan pablo\disco d\EJERICICIOS RIWI\The F-Peaky-Blinders\ManagementSystemCV
-build_property._RazorSourceGeneratorDebug = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/Home/Dashboard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/PostUser/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFVzZXJcUmVnaXN0ZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/juan pablo/disco d/EJERICICIOS RIWI/The F-Peaky-Blinders/ManagementSystemCV/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-c2aqsd0ol8
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3

@@ -5991,34 +5991,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\WINDOWS 11\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Juan Pablo\\.nuget\\packages\\": {}
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\managementcv.csproj",
-      "projectName": "managementcv",
-      "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\managementcv.csproj",
+      "projectUniqueName": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\ManagementSystemCV.csproj",
+      "projectName": "ManagementSystemCV",
+      "projectPath": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\ManagementSystemCV.csproj",
       "packagesPath": "C:\\Users\\WINDOWS 11\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WINDOWS 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
-      "projectName": "managementcv",
-      "projectPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
-      "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
-      "outputPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6026,10 +6011,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
         "C:\\Program Files\\dotnet\\library-packs": {},
-=======
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6115,11 +6097,7 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
->>>>>>> 84904b131f9014bf37a958e76e07a7cf765368f3
       }
     }
   }

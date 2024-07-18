@@ -1,8 +1,8 @@
 using AutoMapper;
-using managementcv.App.Interfaces;
-using managementcv.Infraestructures.Context;
+using ManagementSystemCV.App.Interfaces;
+using ManagementSystemCV.Infraestructures.Context;
 
-namespace managementcv.App.Implements
+namespace ManagementSystemCV.App.Implements
 {
     public class CurriculumRepository : ICurriculum
     {

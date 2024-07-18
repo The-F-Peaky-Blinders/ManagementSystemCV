@@ -1,12 +1,12 @@
 /* using AutoMapper;
-using managementcv.App.Implements;
-using managementcv.App.Interfaces;
-using managementcv.Infraestructures.Context;
-using managementcv.Models;
+using ManagementSystemCV.App.Implements;
+using ManagementSystemCV.App.Interfaces;
+using ManagementSystemCV.Infraestructures.Context;
+using ManagementSystemCV.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace managementcv.App.Services
+namespace ManagementSystemCV.App.Services
 {
     public class UserService : IUser
     {

@@ -1,5 +1,5 @@
 
-namespace managementcv.Models
+namespace ManagementSystemCV.Models
 {
     public class WorkExperience
     {

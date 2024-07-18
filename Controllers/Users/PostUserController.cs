@@ -1,9 +1,8 @@
-using managementcv.App.Interfaces;
-using managementcv.Models;
+using ManagementSystemCV.App.Interfaces;
+using ManagementSystemCV.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
 
-namespace managementcv.Controllers.Users
+namespace ManagementSystemCV.Controllers.Users
 {
     public class PostUserController : Controller
     {

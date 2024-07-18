@@ -7,9 +7,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Security.Claims;
 using System;
-using managementcv.App.Interfaces;
 using ManagementSystemCV.App.Interfaces;
-using ManagementSystemCv.Models;
 
 
 namespace ManagementSystemCv.Controllers
@@ -32,17 +30,27 @@ namespace ManagementSystemCv.Controllers
             return View();
         }
 
+        public IActionResult Coders()
+        {
+            return View();
+        }
+
+        public IActionResult Dashboard()
+        {
+            return View();
+        }
+
+        public IActionResult MiCV()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
         }
 
         public IActionResult Login()
-        {
-            return View();
-        }
-
-         public IActionResult Dashboard()
         {
             return View();
         }
@@ -54,15 +62,13 @@ namespace ManagementSystemCv.Controllers
 
             if (user == null || !VerifyPassword(password, user.Password))
             {
-                ModelState.AddModelError(string.Empty, "El correo electrónico o la contraseña son incorrectos.");
-                return View();
+                return Unauthorized(new { message = "El correo electrónico o la contraseña son incorrectos." });
             }
 
             var token = _jwtAuthenticationService.GenerateJwtToken(user.Email);
-            // Aquí puedes manejar el token JWT generado según tus necesidades
-
-            return RedirectToAction("Dashboard", "Home");
+            return Ok(new { token });
         }
+
 
         private bool VerifyPassword(string password, string storedPassword)
         {

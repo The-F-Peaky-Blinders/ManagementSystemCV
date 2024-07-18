@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using managementcv.App.Implements;
+using ManagementSystemCV.App.Implements;
 
-namespace managementcv.App.Services
+namespace ManagementSystemCV.App.Services
 {
     public class AptitudeService : AptitudeRepository
     {

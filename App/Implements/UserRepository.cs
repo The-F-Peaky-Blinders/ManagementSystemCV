@@ -1,9 +1,9 @@
 using System.Threading.Tasks;
 using System.Collections.Generic;
 using AutoMapper;
-using managementcv.App.Interfaces;
-using managementcv.Infraestructures.Context;
-using managementcv.Models;
+using ManagementSystemCV.App.Interfaces;
+using ManagementSystemCV.Infraestructures.Context;
+using ManagementSystemCV.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 

@@ -1,4 +1,4 @@
-@model managementcv.Models.User
+@model ManagementSystemCV.Models.User
 
 @{
     ViewData["Title"] = "Register";
@@ -35,8 +35,7 @@
                 O usa tu correo electrónico
             </p>
 
-            @* <form asp-action="Register" asp-controller="PostUser" method="post" *@
-            <form
+            <form asp-action="Register" asp-controller="Auth" method="post"
                 class="space-y-4 md:space-y-6" action="#">
                 <div>
                     <label asp-for="FirstName" 
