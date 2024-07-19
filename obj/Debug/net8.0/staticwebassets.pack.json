@@ -1,99 +1,99 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-1.png",
-      "PackagePath": "staticwebassets\\Ilustración-1.png"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/Ilustración-1.png",
+      "PackagePath": "staticwebassets/Ilustración-1.png"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-2.png",
-      "PackagePath": "staticwebassets\\Ilustración-2.png"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/Ilustración-2.png",
+      "PackagePath": "staticwebassets/Ilustración-2.png"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\Ilustración-3.png",
-      "PackagePath": "staticwebassets\\Ilustración-3.png"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/Ilustración-3.png",
+      "PackagePath": "staticwebassets/Ilustración-3.png"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\WINDOWS 11\\Desktop\\Riwi\\ManagementSystemCV\\wwwroot\\logo.png",
-      "PackagePath": "staticwebassets\\logo.png"
+      "Id": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/wwwroot/logo.png",
+      "PackagePath": "staticwebassets/logo.png"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ManagementSystemCV.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ManagementSystemCV.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ManagementSystemCV.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ManagementSystemCV.props",
       "PackagePath": "build\\ManagementSystemCV.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ManagementSystemCV.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ManagementSystemCV.props",
       "PackagePath": "buildMultiTargeting\\ManagementSystemCV.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ManagementSystemCV.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ManagementSystemCV.props",
       "PackagePath": "buildTransitive\\ManagementSystemCV.props"
     }
   ],
