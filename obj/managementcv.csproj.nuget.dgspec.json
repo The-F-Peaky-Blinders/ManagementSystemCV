@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/managementcv.csproj": {}
+    "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj": {}
   },
   "projects": {
-    "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/managementcv.csproj": {
+    "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/managementcv.csproj",
+        "projectUniqueName": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
         "projectName": "managementcv",
-        "projectPath": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/managementcv.csproj",
-        "packagesPath": "/home/riwip4-046/.nuget/packages/",
-        "outputPath": "/home/riwip4-046/Documents/juanpa 4A/ManagementSystemCV/obj/",
+        "projectPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
+        "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
+        "outputPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip4-046/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/riwip4-046/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
