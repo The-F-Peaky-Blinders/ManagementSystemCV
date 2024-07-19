@@ -1,6 +1,6 @@
-using managementcv.App.Implements;
+using ManagementSystemCV.App.Implements;
 
-namespace managementcv.App.Services
+namespace ManagementSystemCV.App.Services
 {
     public class EducationService : EducationRepository
     {

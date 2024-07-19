@@ -1,7 +1,7 @@
-using managementcv.App.Interfaces;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace managementcv.Controllers.Aptitudes
+namespace ManagementSystemCV.Controllers.Aptitudes
 {
     public class PutAptitudeController : Controller
     {

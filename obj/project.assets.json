@@ -5996,9 +5996,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
-      "projectName": "managementcv",
-      "projectPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\managementcv.csproj",
+      "projectUniqueName": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\ManagementSystemCV.csproj",
+      "projectName": "ManagementSystemCV",
+      "projectPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\ManagementSystemCV.csproj",
       "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
       "outputPath": "D:\\juan pablo\\disco d\\EJERICICIOS RIWI\\The F-Peaky-Blinders\\ManagementSystemCV\\obj\\",
       "projectStyle": "PackageReference",

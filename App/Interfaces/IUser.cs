@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using managementcv.Models;
+using ManagementSystemCV.Models;
 
-namespace managementcv.App.Interfaces
+namespace ManagementSystemCV.App.Interfaces
 {
     public interface IUser
     {

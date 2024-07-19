@@ -1,7 +1,7 @@
-using managementcv.App.Interfaces;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace managementcv.Controllers.Curriculums
+namespace ManagementSystemCV.Controllers.Curriculums
 {
     public class DeleteCurriculumController : Controller
     {

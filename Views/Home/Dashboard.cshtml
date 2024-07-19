@@ -1,8 +1,16 @@
-@{
+﻿@{
+    Layout = "/Views/Shared/_LayoutDashboard.cshtml";
     ViewData["Title"] = "Dashboard";
 }
 
-<h2>Dashboard</h2>
-<p>Bienvenido al Dashboard.</p>
-
-<button id="logoutButton" class="btn btn-primary">Cerrar Sesión</button>
+<div class="p-4 sm:ml-64 h-screen flex items-center justify-center">
+    <div
+        class="p-4 flex items-center justify-center border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700">
+        <div class="flex flex-col items-center justify-center h-48 rounded bg-gray-50 dark:bg-gray-800">
+            <img src="~/Ilustración-3.png" alt="" class="h-24 mb-4">
+            <h1 class="text-2xl text-center font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
+                Dashboard
+            </h1>
+        </div>
+    </div>
+</div>

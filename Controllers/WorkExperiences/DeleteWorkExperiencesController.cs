@@ -1,7 +1,7 @@
-using managementcv.App.Interfaces;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace managementcv.Controllers.WorkExperiences
+namespace ManagementSystemCV.Controllers.WorkExperiences
 {
     public class DeleteWorkExperiencesController : Controller
     {

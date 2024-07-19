@@ -1,8 +1,8 @@
-using managementcv.App.Interfaces;
-using managementcv.Models;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using ManagementSystemCV.Models;
 
-namespace managementcv.Controllers.Users
+namespace ManagementSystemCV.Controllers.Users
 {
     public class GetUserController : Controller
     {

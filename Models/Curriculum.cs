@@ -1,4 +1,6 @@
-namespace managementcv.Models
+using ManagementSystemCV.Models;
+
+namespace ManagementSystemCV.Models
 {
     public class Curriculum
     {

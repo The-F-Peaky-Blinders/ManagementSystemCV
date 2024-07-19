@@ -1,7 +1,7 @@
-using managementcv.App.Interfaces;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace managementcv.Controllers.Languages
+namespace ManagementSystemCV.Controllers.Languages
 {
     public class GetLanguageController : Controller
     {
