@@ -23,5 +23,10 @@ namespace ManagementSystemCv.Controllers
         {
             return View();
         }
+
+        public IActionResult RememberPassword()
+        {
+            return View();
+        }
     }
 }

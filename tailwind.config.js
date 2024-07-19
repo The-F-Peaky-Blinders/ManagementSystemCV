@@ -1,11 +1,15 @@
 /** @type {import('tailwindcss').Config} */
 
+const { addDynamicIconSelectors } = require('@iconify/tailwind')
+
 module.exports = {
   content: [
     './Views/**/*.cshtml',
     './Shared/**/*.cshtml',
     './Components/**/*.cshtml',
     './wwwroot/**/*.js',
+    './**/*.html',
+    './**/*.js',
     "./node_modules/flowbite/**/*.js"
   ],
   darkMode: 'class',
@@ -66,6 +70,6 @@ module.exports = {
   },
   plugins: [
     require('flowbite/plugin'),
-    require('@iconify/tailwind')
+    addDynamicIconSelectors()
   ]
 }

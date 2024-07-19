@@ -13,13 +13,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@iconify/json": "^2.2.228",
+    "@iconify/json": "^2.2.229",
     "@iconify/tailwind": "^1.1.1",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4"
   },
   "dependencies": {
+    "@iconify/iconify": "^3.1.1",
     "flowbite": "^2.4.1"
   }
 }
