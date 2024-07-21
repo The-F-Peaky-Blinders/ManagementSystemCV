@@ -66,6 +66,15 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseStatusCodePages(async context =>
+    {
+        context.HttpContext.Response.ContentType = "application/json";
+        await context.HttpContext.Response.WriteAsync(new 
+        {
+            error = "An error occurred."
+        }.ToString());
+    });
+    
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

@@ -1,7 +1,4 @@
-/* using AutoMapper;
-using ManagementSystemCV.App.Implements;
 using ManagementSystemCV.App.Interfaces;
-using ManagementSystemCV.Infraestructures.Context;
 using ManagementSystemCV.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -10,11 +7,11 @@ namespace ManagementSystemCV.App.Services
 {
     public class UserService : IUser
     {
-        private readonly UserRepository _userRepository; // Asegúrate de que UserService tenga una referencia a UserRepository
+        private readonly UserRepository _userRepository;
 
-        public UserService(ManagementContext context, IMapper mapper)
+        public UserService(UserRepository userRepository)
         {
-            _userRepository = new UserRepository(context, mapper); // Aquí es donde debes proporcionar context y mapper
+            _userRepository = userRepository;
         }
 
         public async Task<IEnumerable<User>> GetAllUsersAsync()
@@ -33,4 +30,3 @@ namespace ManagementSystemCV.App.Services
         }
     }
 }
- */
