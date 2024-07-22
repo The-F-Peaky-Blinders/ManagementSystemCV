@@ -9,8 +9,16 @@
             <p class="text-2xl text-gray-400 dark:text-gray-500">
             <h1 class="text-2xl text-center font-bold leading-tight tracking-tight text-gray-900 dark:text-white">
                 Index
+                @Html.ActionLink("Download Users Excel", "ExportUsersToExcel", "Export", new { }, new { @class = "btn btn-primary" })
             </h1>
             </p>
         </div>
+            <form asp-controller="Upload" asp-action="UploadExcel" method="post" enctype="multipart/form-data">
+              <div>
+              <label for="file">Upload Excel file:</label>
+              <input type="file" name="file" id="file" />
+              </div>
+              <button type="submit">Upload</button>
+            </form>
     </div>
 </div>
