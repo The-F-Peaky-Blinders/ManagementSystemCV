@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+@* <html lang="en"> *@
+<html lang="en" class="dark">
 
 <head>
     <meta charset="utf-8" />
@@ -62,7 +63,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#"
+                                        <a id="logoutButton" href="@Url.Action("Login", "Home")"
                                             class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white">Cerrar
                                             sesión
                                         </a>
@@ -110,24 +111,13 @@
                 <li>
                     <a href="@Url.Action("MiCV", "Home")"
                         class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
+
                         <svg class="flex-shrink-0 w-5 h-5 text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
-                            aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor"
-                            viewBox="0 0 18 20">
-                            <path
-                                d="M17 5.923A1 1 0 0 0 16 5h-3V4a4 4 0 1 0-8 0v1H2a1 1 0 0 0-1 .923L.086 17.846A2 2 0 0 0 2.08 20h13.84a2 2 0 0 0 1.994-2.153L17 5.923ZM7 9a1 1 0 0 1-2 0V7h2v2Zm0-5a2 2 0 1 1 4 0v1H7V4Zm6 5a1 1 0 1 1-2 0V7h2v2Z" />
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+                            <path fill="currentColor"
+                                d="m210.78 39.25l-130.25-23A16 16 0 0 0 62 29.23l-29.75 169a16 16 0 0 0 13 18.53l130.25 23a16 16 0 0 0 18.54-13l29.75-169a16 16 0 0 0-13.01-18.51m-75.28 92.31a8 8 0 0 1-7.87 6.61a8.3 8.3 0 0 1-1.4-.12l-41.5-7.33A8 8 0 0 1 87.52 115l41.48 7.29a8 8 0 0 1 6.5 9.27m47-24.18a8 8 0 0 1-7.86 6.61a7.6 7.6 0 0 1-1.41-.13l-83-14.65a8 8 0 0 1 2.79-15.76l83 14.66a8 8 0 0 1 6.51 9.27Zm5.55-31.52a8 8 0 0 1-7.87 6.61a8.4 8.4 0 0 1-1.4-.12l-83-14.66a8 8 0 1 1 2.78-15.75l83 14.65a8 8 0 0 1 6.52 9.27Z" />
                         </svg>
                         <span class="flex-1 ms-3 whitespace-nowrap">Mi CV</span>
-                    </a>
-                </li>
-                <li>
-                    <a id="logoutButton" <a href="@Url.Action("Login", "Home")"
-                        class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-                        <svg class="flex-shrink-0 w-5 h-5 text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
-                            aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 16">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M1 8h11m0 0L8 4m4 4-4 4m4-11h3a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-3" />
-                        </svg>
-                        <span class="flex-1 ms-3 whitespace-nowrap">Cerrar sesión</span>
                     </a>
                 </li>
             </ul>
@@ -156,15 +146,15 @@
         </div>
     </aside>
 
-    <main role="main" class="flex-grow mt-2">
+    <main role="main" class="flex-grow mt-2 dark:bg-gray-900 dark:border-gray-600 dark:text-white">
         <!-- Contenido principal de tu página -->
-        <div class="container mx-auto px-4 py-8">
-            <!-- Aquí va el contenido de tu página -->
+        <div class="p-4 md:ml-64 h-auto pt-20 ">
+            <!-- Aquí va el contenido de la página -->
             @RenderBody()
         </div>
     </main>
 
-    <footer class="bg-white rounded-lg shadow p-4 sm:p-6 xl:p-8 dark:bg-gray-800 mt-auto">
+    <footer class="bg-white rounded-lg shadow p-4 sm:p-2 xl:p-2 dark:bg-gray-800 mt-auto">
         <div class="container mx-auto px-4"><div class="p-4 sm:ml-64">
             <p class="mb-4 text-sm text-center text-gray-500 dark:text-gray-400 sm:mb-0">
                 &copy; 2024 <a href="#" class="hover:underline" target="_blank">Peaky Blinders</a>. Reservados todos los
@@ -173,7 +163,6 @@
         </div>
     </footer>
 
-    <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js"></script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

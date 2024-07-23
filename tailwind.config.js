@@ -1,16 +1,14 @@
 /** @type {import('tailwindcss').Config} */
-
-const { addDynamicIconSelectors } = require('@iconify/tailwind')
+const { iconifyPlugin } = require('@iconify/tailwind');
 
 module.exports = {
   content: [
     './Views/**/*.cshtml',
-    './Shared/**/*.cshtml',
-    './Components/**/*.cshtml',
-    './wwwroot/**/*.js',
-    './**/*.html',
-    './**/*.js',
-    "./node_modules/flowbite/**/*.js"
+    './Views/Shared/**/*.cshtml', // Captura los archivos de Shared también
+    './wwwroot/**/*.js', // Asegura que Tailwind se aplique a los archivos JS
+    './**/*.html', // Captura todos los archivos HTML en el proyecto
+    './**/*.js', // Captura todos los archivos JS en el proyecto
+    "./node_modules/flowbite/**/*.js" // Asegura que Flowbite se aplique
   ],
   darkMode: 'class',
   theme: {
@@ -70,6 +68,6 @@ module.exports = {
   },
   plugins: [
     require('flowbite/plugin'),
-    addDynamicIconSelectors()
+    iconifyPlugin()   
   ]
 }
