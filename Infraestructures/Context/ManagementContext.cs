@@ -1,7 +1,7 @@
-using managementcv.Models;
+using ManagementSystemCV.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace managementcv.Infraestructures.Context
+namespace ManagementSystemCV.Infraestructures.Context
 {
     public class ManagementContext : DbContext
     {

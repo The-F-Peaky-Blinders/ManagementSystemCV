@@ -2,15 +2,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using prueba.Models;
+using ManagementSystemCv.Models;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Security.Claims;
 using System;
-using managementcv.App.Interfaces;
 using ManagementSystemCV.App.Interfaces;
 
-namespace prueba.Controllers
+
+namespace ManagementSystemCv.Controllers
 {
     public class HomeController : Controller
     {
@@ -30,17 +30,27 @@ namespace prueba.Controllers
             return View();
         }
 
+        public IActionResult Coders()
+        {
+            return View();
+        }
+
+        public IActionResult Dashboard()
+        {
+            return View();
+        }
+
+        public IActionResult MiCV()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
         }
 
         public IActionResult Login()
-        {
-            return View();
-        }
-
-        public IActionResult Dashboard()
         {
             return View();
         }

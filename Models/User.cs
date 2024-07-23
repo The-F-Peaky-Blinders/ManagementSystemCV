@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace managementcv.Models
+namespace ManagementSystemCV.Models
 {
   public class User
   {

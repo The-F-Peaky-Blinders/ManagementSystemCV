@@ -1,0 +1,27 @@
+{
+  "name": "managementsystemcv",
+  "version": "1.0.0",
+  "description": "Management system and creation of CV.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \" npm run css:dev\" \"dotnet watch\"",
+    "build": "npm run css:build && dotnet build",
+    "css:dev": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css  --watch",
+    "css:build": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@iconify/json": "^2.2.229",
+    "@iconify/tailwind": "^1.1.1",
+    "autoprefixer": "^10.4.19",
+    "concurrently": "^8.2.2",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@iconify/iconify": "^3.1.1",
+    "flowbite": "^2.4.1"
+  }
+}

@@ -1,15 +1,11 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using managementcv.Infraestructures.Context;
-using managementcv.App.Implements;
-using managementcv.App.Interfaces;
-using Microsoft.Extensions.DependencyInjection;
+using ManagementSystemCV.App.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
-using ManagementSystemCV.App.Interfaces;
 using ManagementSystemCV.Models;
-using Microsoft.Extensions.Configuration;
+using ManagementSystemCV.Infraestructures.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -82,6 +78,6 @@ app.MapControllers();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Auth}/{action=Login}/{id?}");
 
 app.Run();

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace managementcv.App.Interfaces
+namespace ManagementSystemCV.App.Interfaces
 {
     public interface IWorkExperience
     {
