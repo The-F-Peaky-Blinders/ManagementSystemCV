@@ -52,7 +52,7 @@ namespace ManagementSystemCV.Controllers
                     // Manejar el valor nulo de Birthdate
                     worksheet.Cells[i + 2, 6].Value = users[i].Birthdate.HasValue ? users[i].Birthdate.Value.ToString("yyyy-MM-dd") : string.Empty;
 
-                    worksheet.Cells[i + 2, 7].Value = users[i].TelephonePrefixes ?? string.Empty;
+                    worksheet.Cells[i + 2, 7].Value = string.IsNullOrEmpty (users[i].TelephonePrefixes) ? "": users[i].TelephonePrefixes;
                     worksheet.Cells[i + 2, 8].Value = users[i].PhoneNumber ?? string.Empty;
                     worksheet.Cells[i + 2, 9].Value = users[i].PictureUrl ?? string.Empty;
                     worksheet.Cells[i + 2, 10].Value = users[i].City ?? string.Empty;
