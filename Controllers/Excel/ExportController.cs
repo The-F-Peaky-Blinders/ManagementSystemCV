@@ -44,15 +44,18 @@ namespace ManagementSystemCV.Controllers
                 for (int i = 0; i < users.Count; i++)
                 {
                     worksheet.Cells[i + 2, 1].Value = users[i].UserId;
-                    worksheet.Cells[i + 2, 2].Value = users[i].FirstName;
-                    worksheet.Cells[i + 2, 3].Value = users[i].LastName;
-                    worksheet.Cells[i + 2, 4].Value = users[i].Email;
-                    worksheet.Cells[i + 2, 5].Value = users[i].Password;
-                    worksheet.Cells[i + 2, 6].Value = users[i].Birthdate.ToString("yyyy-MM-dd");
-                    worksheet.Cells[i + 2, 7].Value = users[i].TelephonePrefixes;
-                    worksheet.Cells[i + 2, 8].Value = users[i].PhoneNumber;
-                    worksheet.Cells[i + 2, 9].Value = users[i].PictureUrl;
-                    worksheet.Cells[i + 2, 10].Value = users[i].City;
+                    worksheet.Cells[i + 2, 2].Value = users[i].FirstName ?? string.Empty;
+                    worksheet.Cells[i + 2, 3].Value = users[i].LastName ?? string.Empty;
+                    worksheet.Cells[i + 2, 4].Value = users[i].Email ?? string.Empty;
+                    worksheet.Cells[i + 2, 5].Value = users[i].Password ?? string.Empty;
+
+                    // Manejar el valor nulo de Birthdate
+                    worksheet.Cells[i + 2, 6].Value = users[i].Birthdate.HasValue ? users[i].Birthdate.Value.ToString("yyyy-MM-dd") : string.Empty;
+
+                    worksheet.Cells[i + 2, 7].Value = users[i].TelephonePrefixes ?? string.Empty;
+                    worksheet.Cells[i + 2, 8].Value = users[i].PhoneNumber ?? string.Empty;
+                    worksheet.Cells[i + 2, 9].Value = users[i].PictureUrl ?? string.Empty;
+                    worksheet.Cells[i + 2, 10].Value = users[i].City ?? string.Empty;
                 }
 
                 worksheet.Cells.AutoFitColumns();

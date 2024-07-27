@@ -19,7 +19,7 @@ namespace ManagementSystemCV.Models
       public string? Password { get; set; }
 
       [Required]
-      public DateTime Birthdate { get; set; }
+      public DateTime? Birthdate { get; set; }
 
       [Required]
       public string? TelephonePrefixes { get; set; }
